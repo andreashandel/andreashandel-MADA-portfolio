@@ -6,3 +6,5 @@ output:
 ---
 
 Add some text and a figure describing myself.
+
+Here is more text about me.
